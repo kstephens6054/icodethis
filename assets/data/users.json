@@ -174,10 +174,10 @@
     "email": "bteodoroe@blog.com",
     "gender": "Female",
     "job_title": "Chief Design Engineer",
-    "photo_url": "/assets/images/users/__PHOTO_URL__",
-    "original_photo_url": "__ORIGINAL_PHOTO_URL__",
-    "photo_credits_url": "__PHOTO_CREDITS_URL__",
-    "photographer_name": "__PHOTOGRAPHER_NAME__"
+    "photo_url": "/assets/images/users/photo-1599842057874-37393e9342df-720.png",
+    "original_photo_url": "https://unsplash.com/photos/RtVGS4vGkgM",
+    "photo_credits_url": "https://unsplash.com/@patrikvelich",
+    "photographer_name": "Patrik Velich"
   },
   {
     "id": 16,
@@ -198,10 +198,10 @@
     "email": "msebrensg@plala.or.jp",
     "gender": "Female",
     "job_title": "Junior Executive",
-    "photo_url": "/assets/images/users/__PHOTO_URL__",
-    "original_photo_url": "__ORIGINAL_PHOTO_URL__",
-    "photo_credits_url": "__PHOTO_CREDITS_URL__",
-    "photographer_name": "__PHOTOGRAPHER_NAME__"
+    "photo_url": "/assets/images/users/photo-1544717305-2782549b5136-720.png",
+    "original_photo_url": "https://unsplash.com/photos/FcLyt7lW5wg",
+    "photo_credits_url": "https://unsplash.com/@icons8",
+    "photographer_name": "Icons8 Team"
   },
   {
     "id": 18,
@@ -210,10 +210,10 @@
     "email": "astellh@godaddy.com",
     "gender": "Female",
     "job_title": "Sales Associate",
-    "photo_url": "/assets/images/users/__PHOTO_URL__",
-    "original_photo_url": "__ORIGINAL_PHOTO_URL__",
-    "photo_credits_url": "__PHOTO_CREDITS_URL__",
-    "photographer_name": "__PHOTOGRAPHER_NAME__"
+    "photo_url": "/assets/images/users/photo-1502661390371-7a07ca756cb7-720.png",
+    "original_photo_url": "https://unsplash.com/photos/nsnayQ2FPLU",
+    "photo_credits_url": "https://unsplash.com/@icons8",
+    "photographer_name": "Icons8 Team"
   },
   {
     "id": 19,
@@ -234,10 +234,10 @@
     "email": "tomoylanej@imageshack.us",
     "gender": "Female",
     "job_title": "Web Designer IV",
-    "photo_url": "/assets/images/users/__PHOTO_URL__",
-    "original_photo_url": "__ORIGINAL_PHOTO_URL__",
-    "photo_credits_url": "__PHOTO_CREDITS_URL__",
-    "photographer_name": "__PHOTOGRAPHER_NAME__"
+    "photo_url": "/assets/images/users/photo-1685354218056-cb10c98b8c88-720.png",
+    "original_photo_url": "https://unsplash.com/photos/SGVyegCsh-U",
+    "photo_credits_url": "https://unsplash.com/@rdcl",
+    "photographer_name": "Redicul Pict"
   },
   {
     "id": 21,
