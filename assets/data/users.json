@@ -54,10 +54,10 @@
     "email": "wdelafeld4@huffingtonpost.com",
     "gender": "Female",
     "job_title": "VP Marketing",
-    "photo_url": "/assets/images/users/__PHOTO_URL__",
-    "original_photo_url": "__ORIGINAL_PHOTO_URL__",
-    "photo_credits_url": "__PHOTO_CREDITS_URL__",
-    "photographer_name": "__PHOTOGRAPHER_NAME__"
+    "photo_url": "/assets/images/users/photo-1544714042-5c0a53d63ed5-720.png",
+    "original_photo_url": "https://unsplash.com/photos/n2WT4H30L9k",
+    "photo_credits_url": "https://unsplash.com/@thecomeupcompanyllc",
+    "photographer_name": "Patriçio"
   },
   {
     "id": 6,
@@ -66,10 +66,10 @@
     "email": "jilem5@usatoday.com",
     "gender": "Female",
     "job_title": "Occupational Therapist",
-    "photo_url": "/assets/images/users/__PHOTO_URL__",
-    "original_photo_url": "__ORIGINAL_PHOTO_URL__",
-    "photo_credits_url": "__PHOTO_CREDITS_URL__",
-    "photographer_name": "__PHOTOGRAPHER_NAME__"
+    "photo_url": "/assets/images/users/photo-1619970096004-08f804595ea4-720.png",
+    "original_photo_url": "https://unsplash.com/photos/i6v95kBybhM",
+    "photo_credits_url": "https://unsplash.com/@uusaez",
+    "photographer_name": "Fausto Sandoval"
   },
   {
     "id": 7,
